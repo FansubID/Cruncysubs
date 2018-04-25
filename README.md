@@ -7,5 +7,6 @@ Download Subtitle Dari Crunchyroll
 
 Langsung Ekekusi aja dengan `~# python CrunchySubs.py` Lalu Masukan Akun Premium 
 
+***Bug ? Langsung Buat Issue aja*** :smile:
 
 ###### 2018 FansubID 
