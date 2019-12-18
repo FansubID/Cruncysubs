@@ -10,7 +10,7 @@ import shutil
 from time import sleep
 import re
 try:
-    from BeautifulSoup import BeautifulSoup, BeautifulStoneSoup
+    from bs4 import BeautifulSoup, BeautifulStoneSoup
 except ImportError as e:
     print("CrunchySubs membutuhkan BeautifulSoup3 agar berfungsi dengan benar.")
     sleep(60)
